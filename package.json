@@ -1,6 +1,6 @@
 {
   "name": "date-utility",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility to verify and mutate dates",
   "main": "index.js",
   "scripts": {
