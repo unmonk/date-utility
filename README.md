@@ -1,7 +1,7 @@
 Date-Utility
 ============
 
-A small library that has some date verification and utilities.
+A library that has some date verification and utilities with a dependency on Moment
 
 ## Installation
 
@@ -22,3 +22,6 @@ A small library that has some date verification and utilities.
 ## Tests
 
   `npm test`
+
+## Dependencies
+moment
