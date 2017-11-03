@@ -1,0 +1,31 @@
+{
+  "name": "date-utility",
+  "version": "0.1.0",
+  "description": "Utility to verify and mutate dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unmonk/date-utility.git"
+  },
+  "keywords": [
+    "date",
+    "utility",
+    "moment"
+  ],
+  "author": "Scott Weaver <developer.weaver@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unmonk/date-utility/issues"
+  },
+  "homepage": "https://github.com/unmonk/date-utility#readme",
+  "dependencies": {
+    "moment": "^2.19.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
